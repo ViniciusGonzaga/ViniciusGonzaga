@@ -1,0 +1,3 @@
+- 👋 Olá, sou o @ViniciusGonzaga.
+- 🌱 Estou estudando atualmente HTML E CSS básico.
+- 📫 Cursando ADS na UNOPAR - Arapongas.
